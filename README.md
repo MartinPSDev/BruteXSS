@@ -30,4 +30,6 @@ https://github.com/rajeshmajumdar/BruteXSS
 
 I noticed that some of you, are having problems using this tool, like it is not showing any results.I recommend you to update the tool & most of you don't select the method.
 
+# Current maintainer of this fork: @M4rt1n_0x1337
+https://x.com/M4rt1n_0x1337
 
