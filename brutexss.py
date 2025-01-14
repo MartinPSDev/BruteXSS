@@ -487,7 +487,7 @@ def checkupdates():
         if float(versionfile) > float(__version__):
             updatefunc()
         else:
-            print 'Nothing happened'
+            print ('Nothing happened')
             start()
     except Exception as e:
         errorbox()
@@ -512,7 +512,7 @@ def updatefunc():
             os.system('git clone https://github.com/rajeshmajumdar/BruteXSS.git')
             update.destroy()
     def no():
-        print 'This thing is also working.'
+        print ('This thing is also working.')
         update.destroy()
         start()
 
@@ -569,4 +569,4 @@ def start():
 if __author__ == 'Rajesh Majumdar':
     checkupdates()
 else:
-    print "Noob! Don't try to modify the code."
+    print ("Noob! Don't try to modify the code.")
