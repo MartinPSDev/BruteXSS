@@ -1,4 +1,4 @@
-# :warning: This project has been discontinued. :warning:  
+# :warning: The original project is no longer maintained. For this reason, this fork was created to keep it alive and the Bug Bounty community can continue to use it. :warning:  
 
 # BruteXSS
 
